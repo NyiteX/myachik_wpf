@@ -1,0 +1,16 @@
+E:\Pictures\step\VS\pract55\bin\Debug\pract55.exe.config
+E:\Pictures\step\VS\pract55\bin\Debug\pract55.exe
+E:\Pictures\step\VS\pract55\bin\Debug\pract55.pdb
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.csproj.AssemblyReference.cache
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.csproj.SuggestedBindingRedirects.cache
+E:\Pictures\step\VS\pract55\obj\Debug\MainWindow.g.cs
+E:\Pictures\step\VS\pract55\obj\Debug\App.g.cs
+E:\Pictures\step\VS\pract55\obj\Debug\pract55_MarkupCompile.cache
+E:\Pictures\step\VS\pract55\obj\Debug\pract55_MarkupCompile.lref
+E:\Pictures\step\VS\pract55\obj\Debug\MainWindow.baml
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.g.resources
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.Properties.Resources.resources
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.csproj.GenerateResource.cache
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.csproj.CoreCompileInputs.cache
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.exe
+E:\Pictures\step\VS\pract55\obj\Debug\pract55.pdb
